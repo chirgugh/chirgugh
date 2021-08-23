@@ -32,7 +32,6 @@ Docker, Kubernetes and Artificial Inteligence
 ### Testing
 
 ![Mocha](https://img.shields.io/badge/-Mocha-000?&logo=Mocha)
-![JMeter ](https://img.shields.io/badge/-JMeter -000?&logo=JMeter )
 
 
 
